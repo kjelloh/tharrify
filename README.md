@@ -1,8 +1,16 @@
 # tharrify
 
-A Playground for meta-processing of C++ code (I have named it Tha from "Meh-Tha" as in "Meta")
+** 6:th of June 2025 - Renamed from previous name 'tha' (local clones beware)**
+
+An initiative to try to split 'C-language-based' source code into arrays or lists based on scopes and separators.
+
+The goal is to se how much information we can get out of splitting source code with this simple, more or less syntax agnostic, approach?
+
+The name of a word play on name 'Tha' of the four meta tier type system model and 'arrify' from 'to make into an array'.
 
 Also see ['cpptha'](https://github.com/kjelloh/cpptha) for the attempt to use C++ meta-code in C++ source code and actually compile it.
+
+**Note: This initiative may or may nbot be used as part of final Tha modelling of source code.**
 
 # tha0
 
