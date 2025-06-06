@@ -1,6 +1,8 @@
-# tha
+# tharrify
 
 A Playground for meta-processing of C++ code (I have named it Tha from "Meh-Tha" as in "Meta")
+
+Also see ['cpptha'](https://github.com/kjelloh/cpptha) for the attempt to use C++ meta-code in C++ source code and actually compile it.
 
 # tha0
 
